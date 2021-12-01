@@ -12,6 +12,7 @@ public class ParseInts {
         while (scanLine.hasNext()) {
             try
             {
+                
               val = Integer.parseInt(scanLine.next());
             sum += val;
             }
